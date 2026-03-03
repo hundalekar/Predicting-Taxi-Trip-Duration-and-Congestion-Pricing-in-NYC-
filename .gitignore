@@ -1,0 +1,30 @@
+# ===== Data Files =====
+# Raw data (too large for GitHub, downloaded from NYC TLC)
+*.parquet
+
+# Large numpy/split files (reproducible from notebooks)
+*.npz
+
+# ===== Model Files =====
+*.joblib
+*.pkl
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ===== Environment =====
+venv/
+.env
+*.egg-info/
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== IDE =====
+.vscode/
+.idea/
