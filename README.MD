@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/ML-Scikit--Learn%20%7C%20XGBoost-green.svg)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
-[![Course](https://img.shields.io/badge/Course-IST%20707%20Applied%20Machine%20Learning-purple.svg)](https://ischool.syr.edu/)
 
 > **A dual-model machine learning system for NYC taxi drivers to optimize trip decisions in the post-congestion pricing era.**
 
