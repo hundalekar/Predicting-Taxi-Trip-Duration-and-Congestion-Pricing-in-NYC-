@@ -331,7 +331,6 @@ Run the notebooks in order — each builds on the previous:
 Master's Student, School of Information Studies
 Syracuse University
 
-**Course:** IST 707 — Applied Machine Learning | Spring 2026
 
 ---
 
@@ -344,7 +343,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 🙏 Acknowledgments
 
 - **NYC Taxi & Limousine Commission** for providing open trip record data
-- **IST 707 Course Staff** at Syracuse University
 - NYC's congestion pricing program (launched January 5, 2025) for creating a novel research opportunity
 
 ---
